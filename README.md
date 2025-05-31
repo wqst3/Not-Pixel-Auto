@@ -19,7 +19,7 @@ A script to automate Not Pixel, having a console interface to set up a path to T
 
 ## **Demo**
 
-![Demo GIF](https://github.com/wqst3/Not-Pixel-Auto/blob/main/assets/VID_20250531_094503_116~2.gif)
+<img src="https://github.com/wqst3/Not-Pixel-Auto/blob/main/assets/VID_20250531_094503_116~2.gif" width="400" alt="Demo GIF">
 
 ## **From myself**
 
