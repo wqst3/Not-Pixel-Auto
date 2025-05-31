@@ -17,6 +17,10 @@ A script to automate Not Pixel, having a console interface to set up a path to T
 2. Go to [Not Pixel](https://t.me/notpixel/app?startapp=f988254241_s578208) and add a [fren template](https://github.com/user-attachments/assets/9b2c6ae5-9cd5-4231-b858-7556871412cf).
 3. Close Not Pixel and run the script.
 
+## **Demo**
+
+![Demo GIF](https://github.com/wqst3/Not-Pixel-Auto/blob/main/assets/VID_20250531_094503_116~2.gif)
+
 ## **From myself**
 
 This is my first project on github and I would love to hear criticism and suggestions from you. But most likely this project will not be updated due to Not Pixel's imminent release on exchanges. But it doesn't mean that I'm abandoning my GitHub, I still have a lot of interesting ideas that I'm going to realize.
